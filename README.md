@@ -1,2 +1,13 @@
-# etterem
-A sapmle of restaruant site.
+# Étterem
+Minta oldal egy étteremnek.
+
+Készült:
+
+- HTML
+- CSS
+- Google Fonts
+- Jsbin
+- JQuery
+- Adobe photoshop
+
+Link: https://antarin.github.io/etterem
